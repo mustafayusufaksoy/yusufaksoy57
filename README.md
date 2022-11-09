@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @yusufaksoy57
--  I’m interested in Machine Learning and statistics.
--  I’m currently learning Python and Machine learning models.
--  How to reach me mustafayusufaksoy@outook.com
-
+Hi, I’m Mustafa Yusuf. I’m interested in Machine Learning and statistics. Also, I’m currently learning Python and Machine learning models. I added some basic projects you can see. How to reach me mustafayusufaksoy@outook.com.
