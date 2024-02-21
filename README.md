@@ -15,8 +15,6 @@
 <a href="https://kaggle.com/https://www.kaggle.com/mustafayusufaksoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mustafayusufaksoy" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
