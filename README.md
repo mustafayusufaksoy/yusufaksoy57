@@ -2,13 +2,13 @@
 <h3 align="center">A Software Developer at Orka Holding</h3>
 
 <div align=center>
-- 🔭 I’m currently working on **I am currently doing projects in multiple web areas, but I cannot share links with customer requests.**
+🔭 I’m currently working on **I am currently doing projects in multiple web areas, but I cannot share links with customer requests.**
 
-- 🌱 I’m currently learning **Node.js, Python**
+🌱 I’m currently learning **Node.js, Python**
 
-- 💬 Ask me about **Database, SQL, PHP, Python**
+💬 Ask me about **Database, SQL, PHP, Python**
 
-- 📫 How to reach me **mustafayusufaksoy@gmail.com**
+📫 How to reach me **mustafayusufaksoy@gmail.com**
 
 </div>
 
