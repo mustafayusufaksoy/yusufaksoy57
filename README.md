@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer at Orka Holding</h3>
 
 <div align=center>
-🔭 I’m currently working on **I am currently doing projects in multiple web areas, but I cannot share links with customer requests.**
+🔭 I’m currently working on Web Applications and Artifical intelligence ** I am currently doing projects in multiple web areas, but I cannot share links with customer requests.**
 
 🌱 I’m currently learning **Node.js, Python**
 
