@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Yusuf Aksoy</h1>
-<h3 align="center">A Software Developer at Orka Holding</h3>
+<h3 align="center">A Software Developer at ORKA Holding</h3>
 
 <div align=center>
 🔭 I’m currently working on Web Applications and Artifical intelligence ** I am currently doing projects in multiple web areas, but I cannot share links with customer requests.**
